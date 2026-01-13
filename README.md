@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @aswdBatch
-- 👀 I’m interested in Batch and GD
-- 🌱 I’m currently learning how to do stuff in cmd
-- 💞️ I’m looking to collaborate on Batchproducts
-- 📫 How to reach me: Emailbot00noreply@gmail.com
+Hello - I'm Aswd!
+
+Im the creator behind Urbanshade OS
+
+I know Vite and React and Typescript ig
+It is kind of eh
+
+Anyways go check it out :D
+https://urbanshade.lovable.app
