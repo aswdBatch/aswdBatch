@@ -1,6 +1,6 @@
 # Hey, I'm Aswd
 
-I'm a developer and the creator behind **Urbanshade OS** — a passion project I've been building with modern web technologies.
+I'm a developer and the creator behind **Urbanshade OS** - a passion project I've been building with modern web technologies.
 
 I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy crafting clean, functional interfaces and experiences.
 
