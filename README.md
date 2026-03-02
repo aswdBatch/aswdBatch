@@ -1,4 +1,4 @@
-# Hey, I'm Aswd 👋
+# Hey, I'm Aswd
 
 I'm a developer and the creator behind **Urbanshade OS** — a passion project I've been building with modern web technologies.
 
@@ -8,14 +8,14 @@ I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy craft
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### [Urbanshade OS](https://urbanshade.aswd.dev)
 A web-based OS experience built with React + TypeScript + Vite. Go check it out!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,7 @@ A web-based OS experience built with React + TypeScript + Vite. Go check it out!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Aswd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswdBatch&show_icons=true&theme=tokyonight&hide_border=true)
 
