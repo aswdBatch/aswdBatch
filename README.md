@@ -1,4 +1,4 @@
-# Hey, I'm Aswd
+# Hey, I'm Aswd 
 
 I'm a developer and the creator behind **Urbanshade OS** - a passion project I've been building with modern web technologies.
 
@@ -8,14 +8,14 @@ I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy craft
 
 ---
 
-## Featured Project
+##  Featured Project
 
 ### [Urbanshade OS](https://urbanshade.aswd.dev)
 A web-based OS experience built with React + TypeScript + Vite. Go check it out!
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,11 +23,13 @@ A web-based OS experience built with React + TypeScript + Vite. Go check it out!
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
-![Aswd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswdBatch&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aswdBatch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswdBatch&layout=compact&theme=tokyonight&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aswdBatch&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aswdBatch&color=blue&style=flat)
 
 ---
 
