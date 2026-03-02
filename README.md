@@ -27,8 +27,6 @@ A web-based OS experience built with React + TypeScript + Vite. Go check it out!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aswdBatch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aswdBatch&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aswdBatch&color=blue&style=flat)
 
 ---
