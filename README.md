@@ -1,10 +1,10 @@
 # Hey, I'm Aswd 
 
-I'm a developer and the creator behind **Urbanshade OS, AI Lab, and Ignite.**
+I'm a developer and the creator behind **Urbanshade OS, AI Lab, and some more i guess**
 
-I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy crafting clean, functional interfaces and experiences.
+I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy doing stuff i *probably shouldn't i think*
 
-> *Also, AI is not taking over the world. Probably.*
+> *Also, AI is not taking over the world, i hope*
 
 ---
 
