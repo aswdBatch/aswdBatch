@@ -2,7 +2,7 @@
 
 I'm a developer and the creator behind **AI Lab, and some more i guess**
 
--# And the one project that from now on shall not be named.
+`And the one project that from now on shall not be named.`
 
 I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy doing stuff i *probably shouldn't i think*
 
