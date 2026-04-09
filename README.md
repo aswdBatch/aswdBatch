@@ -8,13 +8,6 @@ I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy doing
 
 ---
 
-##  Featured Project
-
-### [Urbanshade OS](https://urbanshade.aswd.dev)
-A web-based OS experience built with React + TypeScript + Vite. Go check it out!
-
----
-
 ##  Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
