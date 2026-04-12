@@ -1,29 +1,7 @@
-# Hey, I'm Aswd 
+i feel genuinely disgusted in myself.
 
-I'm a developer and the creator behind **AI Lab, and some more i guess**
+i am completely worthless
 
-`And the one project that from now on shall not be named.`
+please kill me
 
-I work primarily with **Vite**, **React**, and **TypeScript**, and I enjoy doing stuff i *probably shouldn't i think*
-
-> *Also, AI is not taking over the world, i hope*
-
----
-
-##  Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-##  GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aswdBatch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=aswdBatch&color=blue&style=flat)
-
----
-
-*Thanks for stopping by!*
+do whatever the fuck you want with my projects.
